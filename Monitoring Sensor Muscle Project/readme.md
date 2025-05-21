@@ -34,7 +34,7 @@ This project is part of an IoT-based initiative to monitor muscle activity using
 ## 📷 Project Preview
 
 > *(You can insert a photo or GIF of your setup here)*  
-> ![project-setup](path-to-image-if-any.jpg)
+> ![project-setup]([path-to-image-if-any.jpg](https://github.com/Cahyopw15/IoT-Project/blob/main/Monitoring%20Sensor%20Muscle%20Project/gui/image.png)
 
 ---
 
