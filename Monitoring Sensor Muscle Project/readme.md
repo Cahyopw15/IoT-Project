@@ -15,10 +15,10 @@ This project is part of an IoT-based initiative to monitor muscle activity using
 ## 🛠️ Tools & Technologies
 
 - ⚡ **Microcontroller**: Arduino / ESP32
-- 📊 **Sensor**: EMG / Muscle Sensor (e.g., MyoWare)
+- 📊 **Sensor**: EMG / Muscle Sensor (EMG Muscle Sensor V3.0)
 - 💻 **Programming**: Arduino IDE, C/C++, Python
 - 🔗 **Communication**: Bluetooth / Wi-Fi (optional)
-- 📈 **Data Visualization**: Serial Plotter or Web Dashboard (optional)
+- 📈 **Data Visualization**: GUI Python ( Tkinter )
 
 ---
 
