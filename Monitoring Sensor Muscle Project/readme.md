@@ -33,15 +33,6 @@ This project is part of an IoT-based initiative to monitor muscle activity using
 
 ## 📷 Project Preview
 
-> *(You can insert a photo or GIF of your setup here)*  
 > ![project-setup](https://github.com/Cahyopw15/IoT-Project/blob/main/Monitoring%20Sensor%20Muscle%20Project/gui/image.png)
 
 ---
-
-## 📂 Project Structure
-
-```bash
-Monitoring Sensor Muscle Project/
-├── Sensor_Readings.ino         # Arduino code for reading muscle data
-├── images/                     # Optional: project images/screenshots
-└── README.md
